@@ -1,0 +1,8 @@
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\CadastroDeFuncionario.exe.config
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\CadastroDeFuncionario.exe
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\CadastroDeFuncionario.pdb
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\CadastroDeFuncionario.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\CadastroDeFuncionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\CadastroDeFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\CadastroDeFuncionario.exe
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\CadastroDeFuncionario.pdb
